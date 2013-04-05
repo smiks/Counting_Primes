@@ -1,0 +1,1 @@
+Counting prime numbers with elimination method. Eliminating all non-prime numbers.
